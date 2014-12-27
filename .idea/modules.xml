@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Scrolling Moba.iml" filepath="$PROJECT_DIR$/Scrolling Moba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScrollingMoba.iml" filepath="$PROJECT_DIR$/ScrollingMoba.iml" />
     </modules>
   </component>
 </project>
